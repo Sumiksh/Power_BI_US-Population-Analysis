@@ -61,12 +61,8 @@ Supports multi-layered demographic exploration.
 
 🧠 Skills Demonstrated
 
-Data Analysis & Visualization
-
-Business Intelligence Reporting
-
-Power BI Dashboard Design
-
-Geospatial Analytics (Azure Maps)
-
-Interactive Filtering & Drill-Down Modeling
+- Data Analysis & Visualization
+- Business Intelligence Reporting
+- Power BI Dashboard Design
+- Geospatial Analytics (Azure Maps)
+- Interactive Filtering & Drill-Down Modeling
