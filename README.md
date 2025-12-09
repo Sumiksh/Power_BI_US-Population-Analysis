@@ -35,24 +35,12 @@ Year Filter
 
 Select any year between 1970 and 2022 to view population data for that specific period.
 
-Geographic Filters
-
-Filter by:
-
-Region
-
-State
-
-Metro Area
-
+Filters option
+Filter by:Region, State, Metro Area
 Enables detailed drill-down to more granular population information.
-
 Reset Filters
-
 Clear all filters option allows users to easily return to the default unfiltered view.
-
 Clear Slicers
-
 Single-click option to reset all slicers for a fresh start.
 
 📈 Interactive Charts & Visual Design
