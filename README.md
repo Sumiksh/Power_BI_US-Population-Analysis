@@ -2,6 +2,8 @@
 
 A comprehensive, interactive analysis of U.S. population trends and regional distribution.
 
+![US-Population-distribution](US-Population-distribution.pdf)
+
 📌 Overview
 
 The US Population Power BI Dashboard provides an interactive and visually clear view of the population distribution across the United States. It offers regional, state, and metro-level insights over time, leveraging powerful visualization tools and Azure Maps integration to support analysis and decision-making.
