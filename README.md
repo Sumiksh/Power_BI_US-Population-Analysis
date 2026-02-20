@@ -3,6 +3,7 @@
 A comprehensive, interactive analysis of U.S. population trends and regional distribution.
 
 ![US-Population-distribution](./US-Population-distribution.png)
+🗄️ PDF Version:
 ![US-Population-distribution](./US-Population-distribution.pdf)
 
 📌 Overview
