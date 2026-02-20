@@ -1,4 +1,4 @@
-📊 US Population Power BI Dashboard Report
+### 📊 US Population Power BI Dashboard Report
 
 A comprehensive, interactive analysis of U.S. population trends and regional distribution.
 
